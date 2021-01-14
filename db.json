@@ -35,41 +35,7 @@
             }
          ]
       },
-      {
-         "id":1072,
-         "number":"1072",
-         "status":"processing",
-         "currency":"RSD",
-         "date_created":"2020-05-29T16:41:14",
-         "discount_total":"0",
-         "shipping_total":"0",
-         "total":"5370",
-         "total_tax":"895",
-         "billing":{
-            "first_name":"Petar",
-            "last_name":"Petrovic",
-            "address_1":"Gospodar Jovanova 5",
-            "city":"Cacak",
-            "postcode":"32000",
-            "country":"RS",
-            "email":"petar@gmail.com",
-            "phone":"+38166344786"
-         },
-         "payment_method":"cod",
-         "payment_method_title":"Cash on delivery",
-         "transaction_id":"",
-         "line_items":[
-            {
-               "id":24,
-               "name":"CUBE KICKSTAND UNIVERSAL",
-               "product_id":724,
-               "quantity":1,
-               "subtotal":"1290",
-               "total":"1290",
-               "total_tax":"215"
-            }
-         ]
-      },
+    
       {
          "id":1071,
          "number":"1071",
