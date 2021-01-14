@@ -307,41 +307,7 @@
             }
          ]
       },
-      {
-         "id":1057,
-         "number":"1057",
-         "status":"processing",
-         "currency":"RSD",
-         "date_created":"2020-05-27T13:35:31",
-         "discount_total":"16980",
-         "shipping_total":"0",
-         "total":"67920",
-         "total_tax":"11320",
-         "billing":{
-            "first_name":"Stefan",
-            "last_name":"Nemanjic",
-            "address_1":"Balkanska 11",
-            "city":"Beograd",
-            "postcode":"11000",
-            "country":"RS",
-            "email":"stefan@gmail.com",
-            "phone":"011/543-223"
-         },
-         "payment_method":"cod",
-         "payment_method_title":"Cash on delivery",
-         "transaction_id":"",
-         "line_items":[
-            {
-               "id":10,
-               "name":"Cube Ella Cruise 2020 Easy Entry - green, 21inch",
-               "product_id":602,
-               "quantity":1,
-               "subtotal":"84900",
-               "total":"67920",
-               "total_tax":"11320"
-            }
-         ]
-      },
+     
       {
          "id":1055,
          "number":"1055",
